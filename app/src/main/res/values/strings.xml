@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Madar Task</string>
+    <string name="error_msg_email">enter right email</string>
+    <string name="error_msg_firstname">enter right name</string>
+    <string name="hint_first_name">Enter Name</string>
+    <string name="hint_Age">Enter Age</string>
+    <string name="hint_job_title">Enter Job Title</string>
+    <string name="hint_gender">Enter Gender</string>
+    <string name="add_user">Add User</string>
+    <string name="placeholder_name">Name</string>
+    <string name="placeholder_gmail_com">Email</string>
+</resources>
